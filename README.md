@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @BOOW6
 - U can call me BOOW
+- A senior high school student.
