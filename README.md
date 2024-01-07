@@ -4,7 +4,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=BOOW6&style=flat)
 
-![](https://img.shields.io/badge/Dell-Inspiron_5493-blue?style=flat&logo=dell&logoColor=ffffff)
+![](https://img.shields.io/badge/Dell-Inspiron_5493-blue?style=flat&logo=dell&logoColor=ffffff) ![](https://img.shields.io/badge/Xiaomi-Redmi Note 13 Pro-blue?style=flat&logo=dell&logoColor=ffffff)
 
 [![lewisxhe's GitHub stats](https://github-readme-stats.vercel.app/api?username=BOOW6&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
