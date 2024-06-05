@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BOOW6
-- U can call me BOOW
-- A senior high school student.
+- U can call me 白羽Kokuyu
+- A high school student.
 
 ![Profile views](https://komarev.com/ghpvc/?username=BOOW6&style=flat) ![](https://img.shields.io/badge/Dell-Inspiron_5493-blue?style=flat&logo=dell&logoColor=ffffff) ![](https://img.shields.io/badge/Xiaomi-Redmi_Note_13_Pro-blue?style=flat&logo=xiaomi&logoColor=ffffff)
 
