@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @BOOW6
-- Just call me Renko.
+- ～(∠·ω< )⌒★ Ciallo there, I’m @BOOW6
+- Just call me Rin Kokuyu.
 - A senior high school student.
 
 ![](https://komarev.com/ghpvc/?username=BOOW6&style=flat) ![](https://img.shields.io/badge/Dell-Inspiron_5493-blue?style=flat&logo=dell&logoColor=ffffff) ![](https://img.shields.io/badge/Xiaomi-Redmi_Note_13_Pro-blue?style=flat&logo=xiaomi&logoColor=ffffff)
