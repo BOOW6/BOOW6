@@ -1,7 +1,6 @@
 - ～(∠·ω< )⌒★ Ciallo there, I’m @BOOW6
 - Just call me Rin Kokuyu.
 - A student.
-- 
 
 ![](https://count.getloli.com/@BOOW6?name=BOOW6&theme=capoo-2)
 
