@@ -1,8 +1,7 @@
-<div align="center">
-
 ### ～(∠·ω< )⌒★ Ciallo there, I’m @BOOW6
 
 **Just call me Rin Kokuyu.** · *A Student & Tinkerer*
+
 <img src="https://count.getloli.com/@BOOW6?name=BOOW6&theme=capoo-2" alt="Visitor Count" />
 
 <p>
